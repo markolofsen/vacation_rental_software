@@ -5,12 +5,16 @@
 ---
 
 # Vacation Rental Software
+Attention to Airbnb homeowners! Save time and money with new Airbnb Assistant. Get booking directly and pay NO any fees. Manage your guest list and invite them again with a simple click of a button.
+
 Vacation Rental Software script from Airbnb.com. FREE! Setup in 5 minutes!
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-## Exact copy of Airbnb! Setup in 5 minutes!
-## <a href="https://demo.estate.im">Demo website</a>
+### Exact copy of Airbnb! Setup in 5 minutes!
+### <a href="https://demo.estate.im">Demo website</a>
 
 ### AIrbnb features
 * Import apartments from Airbnb (<a href="https://estate.im/">Demo import</a>)
@@ -30,10 +34,13 @@ Vacation Rental Software script from Airbnb.com. FREE! Setup in 5 minutes!
 * Google Analytics, Yandex Metrika.
 * 24/7 support.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = vacation_rental_software <br />
 Title = Vacation Rental Software <br />
 Keywords = airbnb clone script estate wordpress site theme rental software python django, Vacation Rental Software property <br />

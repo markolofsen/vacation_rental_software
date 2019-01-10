@@ -5,12 +5,16 @@
 ---
 
 # Vacation Rental Software
+Attenzione ai proprietari di case Airbnb! Risparmia tempo e denaro con il nuovo Assistente Airbnb. Prenota direttamente e non pagare alcuna commissione. Gestisci la tua lista degli ospiti e invitali di nuovo con un semplice clic di un pulsante.
+
 Vacation Rental Software script from Airbnb.com. FREE! Setup in 5 minutes!
+
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
 
 <hr />
 
-## Copia esatta di Airbnb! Installazione in 5 minuti!
-## <a href="https://demo.estate.im">Sito Web demo</a>
+### Copia esatta di Airbnb! Installazione in 5 minuti!
+### <a href="https://demo.estate.im">Sito web demo</a>
 
 ### Funzionalità di AIrbnb
 * Importa appartamenti da Airbnb ( <a href="https://estate.im/">importazione demo</a> )
@@ -30,10 +34,13 @@ Vacation Rental Software script from Airbnb.com. FREE! Setup in 5 minutes!
 * Google Analytics, Yandex Metrika.
 * Supporto 24/7.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> - assistente proprietario di casa per airbnb!
 
 <hr />
 
-Versione = 0.0.4 <br />
+Versione = 0.0.5 <br />
 Nome libreria = vacation_rental_software <br />
 Title = Vacation Rental Software <br />
 Parole chiave = airbnb clone script estate wordpress site theme rental software python django, Vacation Rental Software property <br />
